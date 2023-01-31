@@ -70,7 +70,7 @@ Los desarrolladores web no pueden controlar qué explorador web usará cada usua
 
 El código del lado servidor puede escribirse en cualquier número de lenguajes de programación — ejemplos de lenguajes de programación populares incluyen PHP, Python, Ruby, C# y NodeJS(JavaScript). El código del lado servidor tiene acceso completo al sistema operativo del servidor y el desarrollador puede elegir qué lenguaje de programación (y qué versión específica) desea usar.
 
-Los desarrolladores generalmente escriben su código usando web frameworks. Los web framworks son colecciones de funciones, objetos, reglas y otras construcciones de código diseñadas para resolver problemas comunes, acelerar el desarrollo y simplificar los diferentes tipos de tareas que se han de abordar en un dominio en particular.
+Los desarrolladores generalmente escriben su código usando web frameworks. Los web frameworks son colecciones de funciones, objetos, reglas y otras construcciones de código diseñadas para resolver problemas comunes, acelerar el desarrollo y simplificar los diferentes tipos de tareas que se han de abordar en un dominio en particular.
 
 De nuevo, mientras que, tanto el código lado cliente y el lado servidor usan frameworks, los dominios son muy diferentes, y por lo tanto también lo son los frameworks. Los frameworks del lado cliente simplifican los diseños y las tareas de presentación mientras que los del lado servidor proporcionan un montón de funcionalidades "comunes" que tendría que haber implementado uno mismo (ej, soporte para las sesiones, soporte para los usuarios y autenticación, acceso fácil a la base de datos, librerías de plantillas, etc...).
 
